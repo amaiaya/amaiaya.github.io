@@ -239,6 +239,14 @@ yat:
 #   theme: "github-light"
 #   follow_site_theme: true
 
+
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+# Add the following to activate the plugin
+plugins:
+  - jekyll-remote-theme
+
 # Build settings
 # highlighter: none
 markdown: kramdown
@@ -251,10 +259,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
-
-# Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
