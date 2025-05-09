@@ -4,23 +4,18 @@ title: 日本校园卡上的篆书方印
 categories: 杂学
 tags:  [杂学, 印章]
 author: 甘井文
-excerpt:
-  default_image: /assets/images/articles/2024-11-18/tku.png  # Default image when the image style is not none
-  image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
-  image_width: 38.2%      # Image default width
-  image_height: 160px     # Image default height
-  content_size: 350       # Words default size
+excerpt_image: /assets/images/articles/2024-11-18/tku.png
 ---
 
 为了做二创，前段时间我找了一堆日本的大学学生证的照片做参考，然后发现日本几乎所有大学的学生证上都会印着篆书体的方印。以下几张图上的方印文字内容分别是：
 
-![tokyo university](/assets/images/articles/2024-11-18/tku.png "东京大学学生证"){: .center-block :}
+![东京大学学生证](/assets/images/articles/2024-11-18/tku.png "东京大学学生证"){: .center-block :}
 <center>総大東<br>長學京
 </center><br>
-![tsukuba university](/assets/images/articles/2024-11-18/tsukuba.png "筑波大学学生证"){: .center-block :}
+![筑波大学学生证](/assets/images/articles/2024-11-18/tsukuba.png "筑波大学学生证"){: .center-block :}
 <center>筑波大学<br>長之印　
 </center><br>
-![tohoku university](/assets/images/articles/2024-11-18/tohoku.png "东北大学学生证"){: .center-block :}
+![东北大学学生证](/assets/images/articles/2024-11-18/tohoku.png "东北大学学生证"){: .center-block :}
 <center>東北大学<br>縂長之印
 </center><br>
 <br>
