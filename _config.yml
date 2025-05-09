@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 甘文
+title: 甘井文
 email: 
 author: AmaiAya
 
@@ -215,10 +215,10 @@ yat:
 #     color: "#bbb"
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
-#   enable_recommendations: false
-#   enable_comments: true
+disqus:
+  shortname: "Your Disqus username"
+  enable_recommendations: false
+  enable_comments: true
 
 # Gitment comments
 # gitment:
