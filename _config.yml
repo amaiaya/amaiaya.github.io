@@ -215,10 +215,10 @@ yat:
 #     color: "#bbb"
 
 # Disqus comments
-disqus:
-  shortname: "Your Disqus username"
-  enable_recommendations: false
-  enable_comments: true
+# disqus:
+#   shortname: "Your Disqus username"
+#   enable_recommendations: false
+#   enable_comments: true
 
 # Gitment comments
 # gitment:
@@ -232,12 +232,12 @@ disqus:
 # See https://utteranc.es/
 # set follow_site_theme true to make utterances' theme follow the site's
 
-# utterances:
-#   repo: "owner/repo"
-#   issue_term: "title"
-#   label: "utterances comment"
-#   theme: "github-light"
-#   follow_site_theme: true
+utterances:
+  repo: "amaiaya/amaiaya.github.io"
+  issue_term: "title"
+  label: "utterances comment"
+  theme: "github-light"
+  follow_site_theme: true
 
 
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
