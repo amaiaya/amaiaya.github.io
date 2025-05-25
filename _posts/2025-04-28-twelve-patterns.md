@@ -4,6 +4,7 @@ title: 关于北洋政府十二章国徽的一点考据
 categories: 历史
 tags:  [历史, 中华民国]
 author: 甘井文
+excerpt_image: /assets/images/articles/2025-04-28/chair.webp
 ---
 
 ![Wikipedia上的十二章国徽配图](/assets/images/articles/2025-04-28/wiki.webp "Wikipedia上的十二章国徽配图"){: .center-block :}
@@ -98,9 +99,14 @@ Giorgi是来自欧洲的设计专家，绘画水平自然远高于非科班出�
 说是这么说，袁世凯的龙椅仍然是相对来说最具官方身份的来源。可惜我们现在已经见不到这个龙椅和上面的十二章了。
 
 # 参考文献
-[1] <a name = "ref1" href="https://commons.wikimedia.org/wiki/File:Twelve_Symbols_national_emblem_of_China.svg">Sodacan, File:Twelve Symbols national emblem of China.svg.</a>
+[1] <a name = "ref1" href="https://commons.wikimedia.org/wiki/File:Twelve_Symbols_national_emblem_of_China.svg">Sodacan. File:Twelve Symbols national emblem of China.svg.</a>
+
 [2] <span name = "ref2">鲁迅. 鲁迅全集：集外集拾遗补编.</span>
+
 [3] <span name = "shan">服部畊石. 篆刻字林.</span>
+
 [4] <span name = "long">John E. Vollmer.</span>
+
 [5] <a name = "gongwen" href="https://web.archive.org/web/20250217035458/http://coin007.com/bbs/read.php?tid=34187">迷中迷. 民國十二年【龍鳳黼黻】銀幣、鉛樣及【十二章】.</a>
-[6] <a name = "进士所" href="https://archivesonline.mh.sinica.edu.tw/detail/82082dc5a0e6ad87e4bfa6d02c5c570e/">外交部發國徽說明書.</a>
+
+[6] <a name = "近史所" href="https://archivesonline.mh.sinica.edu.tw/detail/82082dc5a0e6ad87e4bfa6d02c5c570e/">北洋政府外交部. 外交部發國徽說明書.</a>
