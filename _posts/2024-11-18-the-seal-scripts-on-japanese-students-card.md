@@ -19,7 +19,7 @@ excerpt_image: /assets/images/articles/2024-11-18/tku.png
 <center>東北大学<br>縂長之印
 </center><br>
 ![国际基督教大学学生证](/assets/images/articles/2024-11-18/icu.png "国际基督教大学学生证"){: .center-block :}
-學督國<br>之教際<br>印大基
+<center>學督國<br>之教際<br>印大基
 </center><br>
 ![爱媛大学学生证](/assets/images/articles/2024-11-18/ehime.png "爱媛大学学生证"){: .center-block :}
 愛媛大<br>学長証<br>明之印
@@ -33,7 +33,7 @@ excerpt_image: /assets/images/articles/2024-11-18/tku.png
 
 ![明治大学学生证](/assets/images/articles/2024-11-18/meiji.png "明治大学学生证"){: .center-block :}
 <center>明治大<br>学長之<br>証印
-</center>
+</center><br>
 
 学生证是由学校出具的身份证明，日本又是知名的印章之国，从法律上来说这里确实是需要印章的。而对于身为机构的大学，其印章一般都是篆书的方形法人印（而非使用楷书、隶书等方便辨认字体的个人用圆印）。日本的学生证一般兼有IC卡功能，相当于中国的学生证和校园卡结合。结果就是日本大学生日常使用卡片上会印着起源于几千年前的中国的篆书方印——我估计大部分日本人应该都读不懂这上面的文字，当然中国人也一样。
 
@@ -47,7 +47,7 @@ excerpt_image: /assets/images/articles/2024-11-18/tku.png
 对应汉字为：
 <center>
 首尔大<br>学校学<br>生处长印
-</center>
+</center><br>
 
 不得不说他们给谚文设计的篆书体看着还挺像那么那么一回事儿，相比之下日本篆书印章里的假名看起来就很违和，如：
 ![伊丽莎白音乐大学学生证](/assets/images/articles/2024-11-18/elsb.png "伊丽莎白音乐大学学生证"){: .center-block :}
