@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master  # Here source code branch is `master`, it could be other branch
-  schedule:
-    - cron:  '0 * * * *'
+  # schedule:
+  #   - cron:  '0 * * * *'
 
 
 jobs:
