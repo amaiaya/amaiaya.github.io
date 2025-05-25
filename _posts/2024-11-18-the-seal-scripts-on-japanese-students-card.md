@@ -49,7 +49,7 @@ excerpt_image: /assets/images/articles/2024-11-18/tku.png
 首尔大<br>学校学<br>生处长印
 </center><br>
 
-不得不说他们给谚文设计的篆书体看着还挺像那么那么一回事儿，相比之下日本篆书印章里的假名看起来就很违和，如：
+不得不说韩国人给谚文设计的篆书体看着还挺像那么那么一回事儿，相比之下日本篆书印章里的假名看起来就很违和，如：
 ![伊丽莎白音乐大学学生证](/assets/images/articles/2024-11-18/elsb.png "伊丽莎白音乐大学学生证"){: .center-block :}
 <center>
 學音エ<br>長樂リ<br>之大ザ<br>印學ベ<br>　　ト
