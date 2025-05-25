@@ -2,7 +2,7 @@
 layout: post
 title: 袁世凯身上挂了哪些勋章？
 categories: 历史
-tags:  [历史, 中华民国]
+tags:  [历史, 中华民国, 勋章]
 author: 甘井文
 excerpt_image: /assets/images/articles/2025-05-05/袁世凯勋章1.png
 ---
